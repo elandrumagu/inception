@@ -1,3 +1,0 @@
-# inception
-Leame
-Inception
