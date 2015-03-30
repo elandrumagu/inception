@@ -60,7 +60,7 @@
   6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 2. El compromiso es
-  Usarlo para crear sistema de orden permamente - 30/03/2015 - 1159pm
+  Usarlo - 30/03/2015 - 1159pm
 
 1. La próxima reunión es	
-  31/03/2015 - 430pm - Stoa
+  31/03/2015 - 430pm - 5:30pm - Stoa
