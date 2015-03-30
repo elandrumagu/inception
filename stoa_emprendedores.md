@@ -17,11 +17,10 @@
 3. Los pasos son	
   a. Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
   b. Re-unirse
-  c. Definir el presupuesto a invertir en esa reunión
-    En tiempo y dinero
-  d. Invertir 1/3 del presupuesto de esa reunión en
-    Reflexionar sobre la creencia a integrar enfocándose a una que sea increíble
-  e. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
+  c. Definir el tiempo a invertir en esa reunión
+  d. Invertir 1/3 del tiempo de esa reunión en
+    Reflexionar sobre la creencia "Me conviene colaborar con Stoa"
+  e. Invertir 1/3 del tiempo en llenar los 10 campos cada quién en base a las condiciones 
     0. Mi nombre es... y yo soy...
       Nombre o apodo + lema que te defina
     9. Mi Propósito en la vida es
@@ -32,14 +31,13 @@
       1 verbo en infinitivo
     6. Si pudiera integrar una creencia en todos los emprendedores sería que
       Creencia positiva
-    5. La próxima re-unión con emprendedores en la que puedo invitar a Stoa es
+    5. La próxima re-unión con 100 emprendedores o más en la que puedo invitar a Stoa es
      Contexto + Lugar + Fecha
     4. Para que inviten a Stoa tengo que hablar con
       1 o más nombres
     3. El principal valor que aporta Stoa al mundo es
       Una sola idea
-    2. Me comprometo a agendar una reunión para Stoa con emprendedores para antes del... a cambio de...
-      Fecha + Petición concreta
+    2. Me comprometo a comunicarme con... a cambio de...
     1. La próxima re-unión de la Comunidad Stoa Emprendedores es
       Fecha - Hora - Lugar
 
