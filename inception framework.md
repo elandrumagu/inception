@@ -1,13 +1,10 @@
 #Inception Framework
 
-0. La creencia a integrar es
-  **Todo es posible**
+0. La creencia a integrar es **Todo es posible**
 
-9. El propósito es
-  Crear sistemas que integren creencias en la cultura organizacional
+9. El propósito es **Crear sistemas que integren creencias en la cultura organizacional**
   
-8. La visualización es que sea
-  Personalizado (Enfocado, Voluntario, Interdependiente, Recurrente)
+8. La visualización es que sea **Personalizado**
   
 7. El principal valor que genera es
   Eficientar
