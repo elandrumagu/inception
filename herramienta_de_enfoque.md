@@ -16,7 +16,7 @@
   
 3. Los pasos son	
   a. Elegir un contexto apropiado
-  b. Re-unirse
+  b. Re-unirse con pasos a seguir por escrito y un dispositivo anotador cada quién
   c. Definir el tiempo a invertir en la reunión
   d. Invertir 1/3 del tiempo dividido en partes iguales entre los participantes de la reunión en
     Conversar sobre la creencia a integrar cada quién enfocándose a que sean increíbles
