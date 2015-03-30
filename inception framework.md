@@ -1,6 +1,6 @@
 #Inception Framework
 
-0. La creencia a integrar es **Todo es posible**
+0. La creencia a integrar es **Lo increíble es posible**
 
 9. El propósito es **Crear sistemas que integren creencias en la cultura organizacional**
   
@@ -20,7 +20,7 @@
   c. Definir el presupuesto a invertir en esa reunión
     En tiempo y dinero
   d. Invertir 1/3 del presupuesto de esa reunión en
-    Reflexionar sobre la creencia a integrar
+    Reflexionar sobre la creencia a integrar enfocándose a una que sea increíble
   e. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
     0. Creencia a integrar
       Creencia positiva
@@ -42,14 +42,14 @@
       c. Definir el presupuesto a invertir en esa reunión
         En tiempo y dinero
       d. Invertir 1/3 del presupuesto de esa reunión en conversar hasta
-        Elegir la creencia a integrar
+        Elegir la creencia a integrar enfocándose a una que sea increíble
       e. Invertir 1/3 del presupuesto en 
-        - Llenar los 10 campos cada quién en base a las condiciones
-        - Leer en voz alta cada quién sus campos
+        - Llenar los 10 campos en base a las condiciones
+        - Leer en voz alta los campos
         - Preguntar todo lo que se quiera y hacer cambios hasta que todos estén en paz
       f. Agendar siguiente re-unión en ese momento para una fecha en la cuál se hayan cumplido todos los compromisos
     2. Compromiso en el que se invierta 1/3 del presupuesto personal
-      Algo tangible + fecha
+      Algo tangible + fecha + hora (en el que estará terminado)
     1. Próxima re-unión
       Fecha - Hora - Lugar
 
@@ -60,7 +60,7 @@
   6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 2. El compromiso es
-  Usarlo y actualizarlo - antes del 27/03/2016
+  Usarlo para crear sistema de orden permamente - 30/03/2015 - 1159pm
 
 1. La próxima reunión es	
-  antes del 27/03/2016 - 1159pm - Stoa
+  31/03/2015 - 430pm - Stoa
