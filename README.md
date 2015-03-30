@@ -5,4 +5,4 @@
 ##Glosario
 
 - Personalizado = Enfocado, Voluntario, Interdependiente, Recurrente
-- Contexto = 
+- Contexto = Tiempo / espacio / condiciones / circunstancias
