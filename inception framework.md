@@ -1,5 +1,7 @@
+#Inception Framework
+
 0. La creencia a integrar es
-  Todo es posible
+  **Todo es posible**
 
 9. El propósito es
   Crear sistemas que integren creencias en la cultura organizacional
