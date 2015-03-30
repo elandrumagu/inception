@@ -1,6 +1,8 @@
-# inception
-Inception
+# Inception Framework (IF) - Read me
 
-Glosario
+##¿Qué es el Inception Framework?
 
-Personalizado = (Enfocado, Voluntario, Interdependiente, Recurrente)
+##Glosario
+
+- Personalizado = Enfocado, Voluntario, Interdependiente, Recurrente
+- Contexto = 
