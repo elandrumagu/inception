@@ -16,10 +16,14 @@
   
 3. Los pasos son	
   a. Elegir un contexto apropiado
+
   b. Re-unirse con pasos a seguir por escrito y un dispositivo anotador cada quién
+  
   c. Definir el tiempo a invertir en la reunión
+  
   d. Invertir 1/3 del tiempo dividido en partes iguales entre los participantes de la reunión en
     Conversar sobre la creencia a integrar cada quién enfocándose a que sean increíbles
+    
   e. Invertir 1/6 del tiempo en llenar los 10 campos cada quién en base a las condiciones 
     0. Soy
       Lo que sea que defina su Identidad
