@@ -6,17 +6,13 @@
   
 8. La visualización es que sea **Personalizado**
   
-7. El principal valor que genera es
-  Eficientar
+7. El principal valor que genera es **Eficientar**
 
-6. El nombre es
-  Inception Framework  
+6. El nombre es **Inception Framework**
   
-5. El resultado que genera en cada reunión es
-  1 nuevo sistema
+5. El resultado que genera en cada reunión es **1 nuevo sistema**
   
-4. Los usuarios/programadores son 
-  Alexei / Andru Magu
+4. Los usuarios/programadores son **Alexei / Andru Magu**
   
 3. Los pasos son	
   a. Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
