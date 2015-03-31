@@ -32,59 +32,93 @@ Los usuarios/programadores son **Alexei / Andru Magu**
 
 Los **pasos** son	
 
-###1. 
+###a)
   
 Elegir un **contexto apropiado**
 
-###2. 
+###b)
   
 **Re-unirse**
   
-###3. 
+###c)
   
 **Definir el presupuesto** a invertir en esa re-unión
   
-###4. 
+###d) 
 
 Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
   
-###5. 
+###e) 
 
 Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
   
-    ####0. **Creencia a integrar** = Creencia positiva
-    
-    ####9. **Propósito** = Verbo + Algo concreto
-    
-    ####8. **Visión** = 1 virtud en primera persona del presente
-    
-    ####7. **Vocación / Valor** = 1 verbo en infinitivo
-    
-    ####6. **Nombre** = Lo que sea que defina su Identidad
-    
-    ####5. **Meta / Resultado de cada re-unión** = # + algo concreto
-    
-    ####4. **Alianza interdependiente** = 1 o más nombres
-    
-    ####3. **Pasos**
-    
-      #####1. Elegir un **contexto apropiado**
-      
-      #####2. **Re-unirse**
-      
-      #####3. **Definir el presupuesto** a invertir en esa re-unión
-      
-      #####4. Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
-      
-      #####5. Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
-      
-      #####6. **Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
-      
-    2. ####**Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
-    
-    1. ####**Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
+####0.
 
-  ###6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+**Creencia a integrar** = Creencia positiva
+    
+####9. 
+
+**Propósito** = Verbo + Algo concreto
+    
+####8. 
+
+**Visión** = 1 virtud en primera persona del presente
+    
+####7. 
+
+**Vocación / Valor** = 1 verbo en infinitivo
+    
+####6. 
+
+**Nombre** = Lo que sea que defina su Identidad
+    
+####5. 
+
+**Meta / Resultado de cada re-unión** = # + algo concreto
+    
+####4. 
+
+**Alianza interdependiente** = 1 o más nombres
+    
+####3. 
+
+**Pasos**
+    
+#####a) 
+
+Elegir un **contexto apropiado**
+      
+#####b) 
+
+**Re-unirse**
+      
+#####c) 
+
+**Definir el presupuesto** a invertir en esa re-unión
+      
+#####d) 
+
+Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
+      
+####e) 
+
+Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+      
+#####f) 
+
+**Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
+      
+####2.
+
+**Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
+    
+####1. 
+
+**Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
+
+###f) 
+
+Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
