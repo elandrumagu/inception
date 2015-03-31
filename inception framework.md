@@ -20,7 +20,8 @@
   3. Definir el presupuesto a invertir en esa reunión en tiempo y dinero
   4. Invertir 1/3 del presupuesto de esa reunión en definir la creencia a integrar asegurándo que sea increíble
   5. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
-    0. Creencia a integrar > Creencia positiva
+    0. Creencia a integrar 
+    > Creencia positiva
     9. Propósito
       Verbo + Algo concreto
     8. Visión
@@ -57,7 +58,7 @@
   6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 2. El compromiso es
-  Usarlo - 30/03/2015 - 1159pm
+3. Usarlo - 30/03/2015 - 1159pm
 
 1. La próxima reunión es	
   31/03/2015 - 430pm - 5:30pm - Stoa
