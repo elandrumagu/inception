@@ -2,7 +2,7 @@
 
 ##0. 
 
-La creencia a integrar es **Lo increíble es posible**
+La creencia a integrar es **Somos la mente de Dios y lo hemos olvidado, el universo es mental**
 
 ##9. 
 
@@ -10,7 +10,7 @@ El propósito es **Crear sistemas que integren creencias en la cultura organizac
   
 ##8. 
 
-La visualización es que sea **Personalizado**
+La visualización es que sea **Trascendente**
   
 ##7. 
 
@@ -22,7 +22,7 @@ El nombre es **Inception Framework**
   
 ##5. 
 
-El resultado que genera en cada reunión es **1 nuevo sistema**
+El resultado del sistema es **1 sistema que cumpla una meta al 100% durante 5 años o más a cambio de $1,000,000 de pesos**
   
 ##4. 
 
@@ -38,9 +38,11 @@ Los **pasos** son
 
 - **c)** **Definir el presupuesto** a invertir en la re-unión
 
-- **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
+- **d)** Invertir 1/6 del presupuesto en **definir el resultado que se quiere lograr** asegurándo que sea increíble
+
+- **e)** Invertir 1/6 del presupuesto en **definir la creencia a integrar** asegurándo que esa creencia genere el resultado esperado
   
-- **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+- **f)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
   
   - **0. Creencia a integrar** = Creencia positiva
   
@@ -52,7 +54,7 @@ Los **pasos** son
   
   - **6. Nombre** = Lo que sea que defina su Identidad
   
-  - **5. Meta / Resultado de cada re-unión** = # + algo concreto
+  - **5. Meta / Resultado del sistema** = # + algo concreto
   
   - **4. Alianza interdependiente** = 1 o más nombres
   
@@ -64,26 +66,28 @@ Los **pasos** son
     
     - **c)** Definir el presupuesto** a invertir en la re-unión
     
-    - **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
+    - **d)** Invertir 1/6 del presupuesto en **definir el resultado que se quiere lograr** asegurándo que sea increíble
+  
+    - **e)** Invertir 1/6 del presupuesto en **definir la creencia a integrar** asegurándo que esa creencia genere el resultado esperado
     
-    - **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+    - **f)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
     
-    - **f)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+    - **g)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
      
-    - **g)** Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
+    - **h)** Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
     
   
   - **2. Compromiso** = Algo tangible
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+- **g)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
 
-- **g)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **h)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
-El compromiso es **Usarlo para crear 1 nuevo sistema**
+El compromiso es **Actualizar el sistema de La Herramienta de Enfoque**
 
 ##1.
 
