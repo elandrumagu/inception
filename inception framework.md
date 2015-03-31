@@ -64,7 +64,7 @@ Los **pasos** son
     
     - **b)** **Re-unirse**
     
-    - **c)** Definir el presupuesto** a invertir en la re-unión
+    - **c)** **Definir el presupuesto** a invertir en la re-unión
     
     - **d)** Invertir 1/6 del presupuesto en **definir el resultado que se quiere lograr** asegurándo que sea increíble
   
