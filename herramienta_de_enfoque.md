@@ -76,4 +76,4 @@ El compromiso es **Usarlo**
 
 ##1.
 
-La próxima reunión de actualización es **Miércoles 01/04/2015 - 5:00pm - 6:00pm - Stoa**
+La próxima reunión de actualización es **Miércoles 01/04/2015 - 11:00am - 12:00pm - Stoa**
