@@ -2,7 +2,10 @@
 
 ##¿Qué es el Inception Framework?
 
+El Inceptio Framework es una metodología aplicada para crear sistemas que integren creencias en la Cultura Organizacional.
+
 ##Glosario
 
-- Personalizado = Enfocado, Voluntario, Interdependiente, Recurrente
-- Contexto = Tiempo / espacio / condiciones / circunstancias
+- **Contexto** = Tiempo / espacio / condiciones / circunstancias
+- **Personalizado** = Enfocado, Voluntario, Interdependiente, Recurrente
+
