@@ -91,4 +91,4 @@ El compromiso es **Crear 1 nuevo sistema**
 
 ##1.
 
-La próxima reunión es **01/04/2015 - 11am - 12pm - Stoa**
+La próxima reunión es **Lunes 06/04/2015 - 10am - 12pm - Stoa**
