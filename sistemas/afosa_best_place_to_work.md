@@ -22,11 +22,12 @@ El nombre es **Afosa Best Place to Work**
   
 ##5. 
 
-El resultado que genera en cada reunión es **Incrementar el promedio de evaluación (0 a 10) de trabajo ideal en base a las 5 características más importantes**
+El resultado que genera es **Que el 100% de los colaboradores se otorguen el certificado a Afosa - Best Place to Work.Calificación de 9 o más en promedio de las 5 características más importantes para cada quién.**
   
 ##4. 
 
-Los usuarios/programadores son **Stoa / Afosa**
+Los programadores son **Stoa**
+Los usuarios son **Afosa**
   
 ##3. 
 
