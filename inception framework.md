@@ -42,13 +42,10 @@ Los **pasos** son
   
 - **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
   
-  -**0.** **Creencia a integrar** = Creencia positiva
+  - **0.** **Creencia a integrar** = Creencia positiva
+  
+  - **9.** **Propósito** = Verbo + Algo concreto
     
-####9. 
-
-**Propósito** = Verbo + Algo concreto
-    
-####8. 
 
 **Visión** = 1 virtud en primera persona del presente
     
