@@ -70,7 +70,7 @@ Los **pasos** son
 
 - **h)** Comunicar fecha de la siguiente re-unión
 
-- **i)** En base a la información recabada, las personas que tengan promedio de 9 o más, serán citadas a una entrevista personal con Stoa para profundizar y  validar sus respuestas. Después de esa entrevista, se le entregará por parte de RH su certificado para sí mismo.
+- **i)** En base a la información recabada, las personas que tengan promedio de 9 o más, serán citadas a una entrevista personal con Stoa para profundizar y  validar sus respuestas. Después de esa entrevista, se le entregará por parte de RH su certificado para sí mismo. Por cada entrevista Stoa entregará un reporte cualitativo para aprovechar esa información en toda la empresa
 
 ##2. 
 
