@@ -33,16 +33,16 @@ Los usuarios/programadores son **Alexei / Andru Magu**
 Los **pasos** son	
 
 ###a)
-  
-Elegir un **contexto apropiado**
+
+- Elegir un **contexto apropiado**
 
 ###b)
   
-**Re-unirse**
+- **Re-unirse**
   
 ###c)
   
-**Definir el presupuesto** a invertir en esa re-unión
+- **Definir el presupuesto** a invertir en esa re-unión
   
 ###d) 
 
