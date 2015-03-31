@@ -75,7 +75,7 @@ Los **pasos** son
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)**Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **f)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
