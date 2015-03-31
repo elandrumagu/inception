@@ -1,24 +1,24 @@
-#Todos hacemos de Afosa el trabajo ideal
+#Afosa Best Place to Work
 
 ##0. 
 
-La creencia a integrar es **Afosa es mi trabajo ideal**
+La creencia a integrar es **Eres 100% responsable de crear las mejores condiciones para tu vida**
 
 ##9. 
 
-El propósito es **Generar sentido de pertenencia**
+El propósito es **Empoderar a las personas a crear su realidad con autoridad y responsabilidad personal**
   
 ##8. 
 
-La visualización es que sea **Eficiente**
+La visualización es que sea **Integrador**
   
 ##7. 
 
-El principal valor que genera es **Agradecer**
+El principal valor que genera es **Valorar**
 
 ##6. 
 
-El nombre es **Todos hacemos de Afosa el trabajo ideal**
+El nombre es **Afosa Best Place to Work**
   
 ##5. 
 
