@@ -64,9 +64,9 @@ Los **pasos** son
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)** Invertir 30 minutos en **leer en voz alta los campos de cada quién** en 20 equipos al azar de 4 personas.
+- **f)** Invertir 30 minutos en **leer en voz alta los campos de cada quién** en 20 equipos al azar de 4 personas. Negociar en equipo y hacer los cambios necesarios para trabajar en un proyecto conjunto
 
-- **g)** Invertir 90 minutos en **cumplir los compromisos** en los equipos de 4 personas.
+- **g)** Invertir 90 minutos en **cumplir los compromisos** cada equipo
 
 - **h)** Comunicar fecha de la siguiente re-unión
 
