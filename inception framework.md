@@ -8,23 +8,41 @@ La creencia a integrar es **Lo increíble es posible**
 
 El propósito es **Crear sistemas que integren creencias en la cultura organizacional**
   
-8. La visualización es que sea **Personalizado**
-  
-##7. El principal valor que genera es **Eficientar**
+##8. 
 
-##6. El nombre es **Inception Framework**
+La visualización es que sea **Personalizado**
   
-##5. El resultado que genera en cada reunión es **1 nuevo sistema**
-  
-##4. Los usuarios/programadores son **Alexei / Andru Magu**
-  
-##3. Los **pasos** son	
+##7. 
 
-  ###1. Elegir un **contexto apropiado**
+El principal valor que genera es **Eficientar**
+
+##6. 
+
+El nombre es **Inception Framework**
   
-  ###2. **Re-unirse**
+##5. 
+
+El resultado que genera en cada reunión es **1 nuevo sistema**
   
-  ###3. **Definir el presupuesto** a invertir en esa re-unión
+##4. 
+
+Los usuarios/programadores son **Alexei / Andru Magu**
+  
+##3. 
+
+Los **pasos** son	
+
+  ###1. 
+  
+  Elegir un **contexto apropiado**
+  
+  ###2. 
+  
+  **Re-unirse**
+  
+  ###3. 
+  
+  **Definir el presupuesto** a invertir en esa re-unión
   
   ###4. Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
   
@@ -64,6 +82,10 @@ El propósito es **Crear sistemas que integren creencias en la cultura organizac
 
   ###6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
-##2. El compromiso es **Usarlo**
+##2. 
 
-##1.La próxima reunión es **31/03/2015 - 430pm - 5:30pm - Stoa**
+El compromiso es **Usarlo**
+
+##1.
+
+La próxima reunión es **31/03/2015 - 430pm - 5:30pm - Stoa**
