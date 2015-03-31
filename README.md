@@ -8,4 +8,5 @@ El Inceptio Framework es una metodología aplicada para crear sistemas que integ
 
 - **Contexto** = Tiempo / espacio / condiciones / circunstancias
 - **Personalizado** = Enfocado, Voluntario, Interdependiente, Recurrente
+- **Presupuesto** = Tiempo / Dinero disponible
 
