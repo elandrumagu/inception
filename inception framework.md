@@ -15,13 +15,13 @@
 4. Los usuarios/programadores son **Alexei / Andru Magu**
   
 3. Los pasos son	
-  a. Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
-  b. Re-unirse
-  c. Definir el presupuesto a invertir en esa reunión
+  - Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
+  - Re-unirse
+  - Definir el presupuesto a invertir en esa reunión
     En tiempo y dinero
-  d. Invertir 1/3 del presupuesto de esa reunión en
+  - Invertir 1/3 del presupuesto de esa reunión en
     Reflexionar sobre la creencia a integrar enfocándose a una que sea increíble
-  e. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
+  - Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
     0. Creencia a integrar
       Creencia positiva
     9. Propósito
@@ -48,9 +48,9 @@
         - Leer en voz alta los campos
         - Preguntar todo lo que se quiera y hacer cambios hasta que todos estén en paz
       f. Agendar siguiente re-unión en ese momento para una fecha en la cuál se hayan cumplido todos los compromisos
-    2. Compromiso en el que se invierta 1/3 del presupuesto personal
+    - Compromiso en el que se invierta 1/3 del presupuesto personal
       Algo tangible + fecha + hora (en el que estará terminado)
-    1. Próxima re-unión
+    - Próxima re-unión
       Fecha - Hora - Lugar
 
   4. Leer en voz alta cada quién sus campos
