@@ -35,13 +35,13 @@ Los **pasos** son
 
 - **a)** Elegir un **contexto apropiado**
 
-- **b)** **Re-unirse**
+- **b)** **Re-unirse** todos los colaboradores 3 horas cada mes
 
-- **c)** **Definir el presupuesto** a invertir en esa re-unión
+- **c)** **Comunicar el programa** de la re-unión
 
-- **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
+- **d)** Invertir 30 minutos en **reflexionar sobre la creencia a integrar**: Eres 100% responsable de crear las mejores condiciones para tu vida
   
-- **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+- **e)** Invertir 30 minutos en **completar los 10 campos** cada quién en base a las condiciones. Se llena por duplicado para que una copia se la quede el colaborador y otra sirva a Stoa para generar un reporte cuantitativo y cualitativo de cada re-unión
 
    - **0. Mi nombre es** = Nombre completo
   
@@ -59,17 +59,21 @@ Los **pasos** son
   
   - **3. Para que juntos podamos mejorar la situación actual a través del proyecto de** = Verbo +  algo concreto
   
-  - **2. Me comprometo a** = Algo tangible
+  - **2. Me comprometo a** en 90 minutos = Algo tangible
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+- **f)** Invertir 30 minutos en **leer en voz alta los campos de cada quién** en 20 equipos al azar de 4 personas.
 
-- **g)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **g)** Invertir 90 minutos en **cumplir los compromisos** en los equipos de 4 personas.
+
+- **h)** Comunicar fecha de la siguiente re-unión
+
+- **i)** En base a la información recabada, las personas que tengan promedio de 9 o más, serán citadas a una entrevista personal con Stoa para auditar sus respuestas y asegurar la autenticidad de las mismas. Si pasa esa auditoría, se le entregará por parte de RH su certificado para sí mismo.
 
 ##2. 
 
-El compromiso es **Hacer una prueba piloto con Francisco y Liliana**
+El compromiso es **Autorizar sistema por parte de Liliana y Francisco**
 
 ##1.
 
