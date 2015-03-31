@@ -32,29 +32,17 @@ Los usuarios/programadores son **Alexei / Andru Magu**
 
 Los **pasos** son	
 
-###a)
-
 - **a)** Elegir un **contexto apropiado**
 
-###b)
-  
-- **Re-unirse**
-  
-###c)
-  
-- **Definir el presupuesto** a invertir en esa re-unión
-  
-###d) 
+- **b)** Re-unirse**
 
-Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
-  
-###e) 
+- **c)** **Definir el presupuesto** a invertir en esa re-unión
 
-Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+- **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
   
-####0.
-
-**Creencia a integrar** = Creencia positiva
+- **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+  
+  -**0.** **Creencia a integrar** = Creencia positiva
     
 ####9. 
 
