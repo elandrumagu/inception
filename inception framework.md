@@ -20,21 +20,14 @@
   3. Definir el presupuesto a invertir en esa reunión en tiempo y dinero
   4. Invertir 1/3 del presupuesto de esa reunión en definir la creencia a integrar asegurándo que sea increíble
   5. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
-    0. Creencia a integrar 
-    > Creencia positiva
-    9. Propósito
-      Verbo + Algo concreto
-    8. Visión
-      1 virtud en primera persona del presente
-    7. Vocación / Valor
-      1 verbo en infinitivo
-    6. Nombre
-      Lo que sea que defina su Identidad
-    5. Meta / Resultado de cada re-unión
-      # + algo concreto
-    4. Alianza interdependiente
-      1 o más nombres
-    3. Pasos
+    0. **Creencia a integrar** = Creencia positiva
+    9. **Propósito** = Verbo + Algo concreto
+    8. **Visión** = 1 virtud en primera persona del presente
+    7. **Vocación / Valor** = 1 verbo en infinitivo
+    6. **Nombre** = Lo que sea que defina su Identidad
+    5. **Meta / Resultado de cada re-unión** = # + algo concreto
+    4. **Alianza interdependiente** = 1 o más nombres
+    3. **Pasos**
       a. Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
       b. Re-unirse
       c. Definir el presupuesto a invertir en esa reunión
@@ -46,10 +39,8 @@
         - Leer en voz alta los campos
         - Preguntar todo lo que se quiera y hacer cambios hasta que todos estén en paz
       f. Agendar siguiente re-unión en ese momento para una fecha en la cuál se hayan cumplido todos los compromisos
-    - Compromiso en el que se invierta 1/3 del presupuesto personal
-      Algo tangible + fecha + hora (en el que estará terminado)
-    - Próxima re-unión
-      Fecha - Hora - Lugar
+    - **Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
+    - **Próxima re-unión** = Fecha - Hora - Lugar
 
   4. Leer en voz alta cada quién sus campos
   
