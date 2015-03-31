@@ -34,7 +34,7 @@ Los **pasos** son
 
 - **a)** Elegir un **contexto apropiado**
 
-- **b)** Re-unirse**
+- **b)** **Re-unirse**
 
 - **c)** **Definir el presupuesto** a invertir en esa re-unión
 
