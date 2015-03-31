@@ -60,7 +60,7 @@ Los **pasos** son
   
   - **3. Para que juntos podamos mejorar la situación actual a través del proyecto de** = Verbo +  algo concreto
   
-  - **2. Me comprometo a** en 90 minutos = Algo tangible
+  - **2. Me comprometo a** (en 90 minutos) = Algo tangible
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
