@@ -34,7 +34,7 @@ Los **pasos** son
 
 ###a)
 
-- Elegir un **contexto apropiado**
+- **a)** Elegir un **contexto apropiado**
 
 ###b)
   
