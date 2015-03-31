@@ -68,18 +68,22 @@ Los **pasos** son
     
     - **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
     
-    - **f)** Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
+    - **f)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+     
+    - **g)** Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
     
   
-  - **2. Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
+  - **2. Compromiso** = Algo tangible
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **f)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+
+- **g)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
-El compromiso es **Usarlo**
+El compromiso es **Usarlo para crear 1 nuevo sistema**
 
 ##1.
 
