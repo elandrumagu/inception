@@ -27,6 +27,7 @@ El resultado que genera es **Que el 100% de los colaboradores se otorguen el cer
 ##4. 
 
 Los programadores son **Stoa**
+
 Los usuarios son **Afosa**
   
 ##3. 
