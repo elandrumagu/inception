@@ -1,55 +1,65 @@
 #Inception Framework
 
-0. La creencia a integrar es **Lo increíble es posible**
+##0. La creencia a integrar es **Lo increíble es posible**
 
-9. El propósito es **Crear sistemas que integren creencias en la cultura organizacional**
+##9. El propósito es **Crear sistemas que integren creencias en la cultura organizacional**
   
-8. La visualización es que sea **Personalizado**
+##8. La visualización es que sea **Personalizado**
   
-7. El principal valor que genera es **Eficientar**
+##7. El principal valor que genera es **Eficientar**
 
-6. El nombre es **Inception Framework**
+##6. El nombre es **Inception Framework**
   
-5. El resultado que genera en cada reunión es **1 nuevo sistema**
+##5. El resultado que genera en cada reunión es **1 nuevo sistema**
   
-4. Los usuarios/programadores son **Alexei / Andru Magu**
+##4. Los usuarios/programadores son **Alexei / Andru Magu**
   
-3. Los pasos son	
-  1. Elegir un contexto apropiado
-  2. Re-unirse
-  3. Definir el presupuesto a invertir en esa reunión en tiempo y dinero
-  4. Invertir 1/3 del presupuesto de esa reunión en definir la creencia a integrar asegurándo que sea increíble
-  5. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
-    0. **Creencia a integrar** = Creencia positiva
-    9. **Propósito** = Verbo + Algo concreto
-    8. **Visión** = 1 virtud en primera persona del presente
-    7. **Vocación / Valor** = 1 verbo en infinitivo
-    6. **Nombre** = Lo que sea que defina su Identidad
-    5. **Meta / Resultado de cada re-unión** = # + algo concreto
-    4. **Alianza interdependiente** = 1 o más nombres
-    3. **Pasos**
-      a. Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
-      b. Re-unirse
-      c. Definir el presupuesto a invertir en esa reunión
-        En tiempo y dinero
-      d. Invertir 1/3 del presupuesto de esa reunión en conversar hasta
-        Elegir la creencia a integrar enfocándose a una que sea increíble
-      e. Invertir 1/3 del presupuesto en 
-        - Llenar los 10 campos en base a las condiciones
-        - Leer en voz alta los campos
-        - Preguntar todo lo que se quiera y hacer cambios hasta que todos estén en paz
-      f. Agendar siguiente re-unión en ese momento para una fecha en la cuál se hayan cumplido todos los compromisos
-    - **Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
-    - **Próxima re-unión** = Fecha - Hora - Lugar
+##3. Los **pasos** son	
 
-  4. Leer en voz alta cada quién sus campos
+  ###1. Elegir un **contexto apropiado**
   
-  5. Preguntar todo lo que se quiera y hacer cambios hasta que todos estén en paz
+  ###2. **Re-unirse**
   
-  6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+  ###3. **Definir el presupuesto** a invertir en esa re-unión
+  
+  ###4. Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
+  
+  ###5. Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+  
+    ####0. **Creencia a integrar** = Creencia positiva
+    
+    ####9. **Propósito** = Verbo + Algo concreto
+    
+    ####8. **Visión** = 1 virtud en primera persona del presente
+    
+    ####7. **Vocación / Valor** = 1 verbo en infinitivo
+    
+    ####6. **Nombre** = Lo que sea que defina su Identidad
+    
+    ####5. **Meta / Resultado de cada re-unión** = # + algo concreto
+    
+    ####4. **Alianza interdependiente** = 1 o más nombres
+    
+    ####3. **Pasos**
+    
+      #####1. Elegir un **contexto apropiado**
+      
+      #####2. **Re-unirse**
+      
+      #####3. **Definir el presupuesto** a invertir en esa re-unión
+      
+      #####4. Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
+      
+      #####5. Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
+      
+      #####6. **Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
+      
+    2. ####**Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
+    
+    1. ####**Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-2. El compromiso es
-3. Usarlo - 30/03/2015 - 1159pm
+  ###6. Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
-1. La próxima reunión es	
-  31/03/2015 - 430pm - 5:30pm - Stoa
+##2. El compromiso es **Usarlo**
+
+##1.La próxima reunión es **31/03/2015 - 430pm - 5:30pm - Stoa**
