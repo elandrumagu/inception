@@ -1,33 +1,34 @@
-#Stoa Emprendedores?
+#Best Place to Work
 
 ##0. 
 
-La creencia a integrar es **Me conviene colaborar con Stoa**
+La creencia a integrar es **Stoa es la mejor opción de trabajo para muchas personas**
 
 ##9. 
 
-El propósito es **Agendar reuniones con 100 emprendedore o más en dónde podamos comunicarnos con ellos**
+El propósito es **Ofrecer la opción de trabajar en Stoa a personas con el perfil que buscamos**
   
 ##8. 
 
-La visualización es que sea **Cautivador**
+La visualización es que sea **Abundante**
   
 ##7. 
 
-El principal valor que genera es **Comunicar / Aliar / Atraer**
+El principal valor que genera es **Aliar**
 
 ##6. 
 
-El nombre es **Stoa emprendedores?**
+El nombre es **Best Place to Work**
   
 ##5. 
 
-El resultado que genera en cada reunión es **Al menos 1 mensaje enviado por cada asistente a personas que convocan a 100 emprendedores o más**
+El resultado que genera es **1 persona nueva por mes que se sume al equipo Stoa con el perfil que buscamos**
   
 ##4. 
 
-Los usuarios/programadores son **Stoa / Líderes de emprendedores**
-  
+Los programadores son **Stoa**
+Los usuarios son **Stoa / Aliados estratégicos**
+
 ##3. 
 
 Los **pasos** son	
@@ -38,33 +39,37 @@ Los **pasos** son
 
 - **c)** **Definir el presupuesto** a invertir en esa re-unión
 
-- **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
-  
-- **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
-  
-  - **0. Mi nombre es... y yo soy...* = Nombre o apodo + lema que te defina
-  
-  - **9. Mi Propósito en la vida es** = Verbo + Algo concreto
-  
-  - **8. Me visualizo y siento** = 1 virtud en primera persona del presente
+- **d)** Invertir 1/6 del presupuesto en **definir el resultado que quieren lograr en su empresa** asegurándo que sea increíble
 
-  - **7. Yo pienso que mi vocación es** = 1 verbo en infinitivo
+- **e)** Invertir 1/6 del presupuesto en **definir la creencia a integrar en su empresa** asegurándo que esa creencia genere el resultado esperado
   
-  - **6. Si pudiera integrar una creencia en los emprendedores sería** = Creencia positiva
+- **f)** Invertir 1/6 del presupuesto en **completar los 10 campos de su empresa** en base a las condiciones
+
+  - **0. Nombre** = Lo que sea que defina su Identidad
+
+  - **9. Propósito** = Verbo + Algo concreto
   
-  - **5. La próxima re-unión con 100 emprendedores o más en la que puedo invitar a Stoa es** = Contexto + Lugar + Fecha
+  - **8. Visión** = 1 virtud en primera persona del presente
+
+  - **7. Vocación / Valor** = 1 verbo en infinitivo
   
-  - **4. Para que inviten a Stoa tengo que hablar con** = 1 o más nombres
+  - **6. Creencia a integrar** = Creencia positiva
   
-  - **3. El principal valor que aporta Stoa al mundo es** = 1 sola idea
+  - **5. Meta más importante** = # + algo concreto
   
-  - **2. Me comprometo a comunicar el valor de Stoa a cambio de...** = Algo tangible
+  - **4. Alianza interdependiente** = 1 o más nombres
+  
+  - **3. Proyecto conjunto** = Verbo + Algo concreto
+  
+  - **2. Compromiso** = Algo tangible
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+- **g)** Invertir 1/6 del tiempo dividido en partes iguales entre los participantes de la reunión en **conversar en voz alta obre los campos de cada quién**
 
-- **g)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **h)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
+
+- **i)** **Agendar siguiente re-unión** después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
