@@ -74,7 +74,7 @@ Los **pasos** son
     
     - **g)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
      
-    - **h)** Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
+    - **h)** **Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
     
   
   - **2. Compromiso** = Algo tangible
@@ -83,7 +83,7 @@ Los **pasos** son
 
 - **g)** Invertir 1/3 del presupuesto en **cumplir los compromisos**
 
-- **h)** Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **h)** **Agendar siguiente re-unión** después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
