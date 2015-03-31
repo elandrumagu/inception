@@ -42,68 +42,40 @@ Los **pasos** son
   
 - **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
   
-  - **0.** **Creencia a integrar** = Creencia positiva
+  - **0. Creencia a integrar** = Creencia positiva
   
-  - **9.** **Propósito** = Verbo + Algo concreto
+  - **9. Propósito** = Verbo + Algo concreto
+  
+  - **8. Visión** = 1 virtud en primera persona del presente
+
+  - **7. Vocación / Valor** = 1 verbo en infinitivo
+  
+  - **6. Nombre** = Lo que sea que defina su Identidad
+  
+  - **5. Meta / Resultado de cada re-unión** = # + algo concreto
+  
+  - **4. Alianza interdependiente** = 1 o más nombres
+  
+  - **3. Pasos**
+  
+    - **a)** Elegir un **contexto apropiado**
     
-
-**Visión** = 1 virtud en primera persona del presente
+    - **b)** **Re-unirse**
     
-####7. 
-
-**Vocación / Valor** = 1 verbo en infinitivo
+    - **c)** Definir el presupuesto** a invertir en esa re-unión
     
-####6. 
-
-**Nombre** = Lo que sea que defina su Identidad
+    - **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
     
-####5. 
-
-**Meta / Resultado de cada re-unión** = # + algo concreto
+    - **e)** Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
     
-####4. 
-
-**Alianza interdependiente** = 1 o más nombres
+    - **f)** Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
     
-####3. 
+  
+  - **2. Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
+  
+  - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-**Pasos**
-    
-#####a) 
-
-Elegir un **contexto apropiado**
-      
-#####b) 
-
-**Re-unirse**
-      
-#####c) 
-
-**Definir el presupuesto** a invertir en esa re-unión
-      
-#####d) 
-
-Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
-      
-####e) 
-
-Invertir 1/3 del presupuesto en **completar los 10 campos** en base a las condiciones
-      
-#####f) 
-
-**Agendar la siguiente re-unión** una vez que se hayan cumplido todos los compromisos
-      
-####2.
-
-**Compromiso en el que se invierta 1/3 del presupuesto personal** = Algo tangible
-    
-####1. 
-
-**Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
-
-###f) 
-
-Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
+- **f)**Agendar siguiente re-unión después de que se hayan cumplido todos los compromisos
 
 ##2. 
 
