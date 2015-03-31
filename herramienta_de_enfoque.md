@@ -2,11 +2,11 @@
 
 ##0. 
 
-La creencia a integrar es **Enfocarte a hacer 1 sola cosa es suficiente**
+La creencia a integrar es **Si te enfocas, lo resuelves permanentemente**
 
 ##9. 
 
-El propósito es **Estar en paz**
+El propósito es **Estar en paz cumpliendo tu meta al 100%**
   
 ##8. 
 
@@ -22,8 +22,8 @@ El nombre es **Herramienta de Enfoque**
   
 ##5. 
 
-El resultado que genera en cada reunión es **1 compromiso cumplido cada quién para concretar un proyecto en conjunto**
-  
+El resultado que genera es **1 meta personal cumplida al 100% durante 5 años**
+
 ##4. 
 
 Los usuarios/programadores son **Alexei / Andru Magu**
@@ -38,8 +38,10 @@ Los **pasos** son
 
 - **c)** **Definir el tiempo** a invertir en la re-unión
 
-- **d)** Invertir 1/3 del tiempo en **definir la creencia a integrar** de cada quién dividiendo el tiempo en partes iguales entre los participantes asegurándo que sea increíble a través de la conversación
-  
+- **d)** Invertir 1/6 del tiempo en **definir el resultado que quiere lograr** de cada quién dividiendo el tiempo en partes iguales entre los participantes asegurándo que sea increíble a través de la conversación
+
+- **d)** Invertir 1/6 del tiempo en **definir la creencia a integrar** de cada quién dividiendo el tiempo en partes iguales entre los participantes asegurándo que esa creencia genere el resultado esperado
+
 - **e)** Invertir 1/6 del tiempo en **completar los 10 campos** en base a las condiciones cada quién
   
   - **0. Soy** = Lo que sea que defina tu Identidad
