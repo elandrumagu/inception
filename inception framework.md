@@ -15,15 +15,12 @@
 4. Los usuarios/programadores son **Alexei / Andru Magu**
   
 3. Los pasos son	
-  - Elegir un contexto apropiado (tiempo / espacio / condiciones / circunstancias)
-  - Re-unirse
-  - Definir el presupuesto a invertir en esa reunión
-    En tiempo y dinero
-  - Invertir 1/3 del presupuesto de esa reunión en
-    Reflexionar sobre la creencia a integrar enfocándose a una que sea increíble
-  - Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
-    0. Creencia a integrar
-      Creencia positiva
+  1. Elegir un contexto apropiado
+  2. Re-unirse
+  3. Definir el presupuesto a invertir en esa reunión en tiempo y dinero
+  4. Invertir 1/3 del presupuesto de esa reunión en definir la creencia a integrar asegurándo que sea increíble
+  5. Invertir 1/3 del presupuesto en llenar los 10 campos cada quién en base a las condiciones 
+    0. Creencia a integrar > Creencia positiva
     9. Propósito
       Verbo + Algo concreto
     8. Visión
