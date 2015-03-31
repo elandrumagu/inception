@@ -36,7 +36,7 @@ Los **pasos** son
 
 - **b)** **Re-unirse**
 
-- **c)** **Definir el presupuesto** a invertir en esa re-unión
+- **c)** **Definir el presupuesto** a invertir en la re-unión
 
 - **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
   
@@ -62,7 +62,7 @@ Los **pasos** son
     
     - **b)** **Re-unirse**
     
-    - **c)** Definir el presupuesto** a invertir en esa re-unión
+    - **c)** Definir el presupuesto** a invertir en la re-unión
     
     - **d)** Invertir 1/3 del presupuesto en **definir la creencia a integrar** asegurándo que sea increíble
     
