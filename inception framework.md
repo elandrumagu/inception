@@ -87,8 +87,8 @@ Los **pasos** son
 
 ##2. 
 
-El compromiso es **Actualizar el sistema de La Herramienta de Enfoque**
+El compromiso es **Crear 1 nuevo sistema**
 
 ##1.
 
-La próxima reunión es **31/03/2015 - 430pm - 5:30pm - Stoa**
+La próxima reunión es **01/04/2015 - 11am - 12pm - Stoa**
