@@ -1,4 +1,4 @@
-#Best Place to Work
+#Stoa Best Place to Work
 
 ##0. 
 
@@ -18,7 +18,7 @@ El principal valor que genera es **Aliar**
 
 ##6. 
 
-El nombre es **Best Place to Work**
+El nombre es **Stoa Best Place to Work**
   
 ##5. 
 
