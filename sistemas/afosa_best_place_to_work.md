@@ -64,7 +64,7 @@ Los **pasos** son
   
   - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
 
-- **f)** Invertir 30 minutos en **leer en voz alta los campos de cada quién** en 20 equipos al azar de 4 personas. Negociar en equipo y hacer los cambios necesarios para trabajar en un proyecto conjunto. Cada 2 equipos tendría un facilitador de Stoa y ayudaría al equipo a plasmar algo en base a una metodología de proyectos
+- **f)** Invertir 30 minutos en **leer en voz alta los campos de cada quién** en 20 equipos al azar de 4 personas. Negociar en equipo y hacer los cambios necesarios para trabajar en un proyecto conjunto. Cada 2 equipos se recomienda tener un facilitador de Stoa para ayudar al equipo a plasmar algo en base a una metodología de proyectos (costo adicional)
 
 - **g)** Invertir 90 minutos en **cumplir los compromisos** cada equipo
 
