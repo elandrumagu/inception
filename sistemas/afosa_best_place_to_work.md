@@ -22,7 +22,7 @@ El nombre es **Afosa Best Place to Work**
   
 ##5. 
 
-El resultado que genera es **Que el 100% de los colaboradores se otorguen el certificado a Afosa - Best Place to Work** (9 o más en promedio de las 5 características más importantes para cada quién)
+El resultado que genera es **Que el 100% de los colaboradores se otorguen el certificado Afosa - Best Place to Work** (9 o más en promedio de las 5 características más importantes para cada quién)
   
 ##4. 
 
