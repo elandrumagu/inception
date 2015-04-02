@@ -27,6 +27,7 @@ El resultado que genera es **1 persona nueva por mes que se sume al equipo Stoa 
 ##4. 
 
 Los programadores son **Stoa**
+
 Los usuarios son **Stoa / Aliados estratégicos**
 
 ##3. 
