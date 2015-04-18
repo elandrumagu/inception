@@ -1,4 +1,4 @@
-#Afosa Best Place to Work
+#Afosa Nuestro Trabajo Ideal
 
 ##0. 
 
@@ -18,11 +18,11 @@ El principal valor que genera es **Valorar**
 
 ##6. 
 
-El nombre es **Afosa Best Place to Work**
+El nombre es **Afosa Nuestro Trabajo Ideal**
   
 ##5. 
 
-El resultado que genera es **Que el 100% de los colaboradores se otorguen el certificado Afosa - Best Place to Work** (9 o más en promedio de las 5 características más importantes para cada quién)
+El resultado que genera es **Que el 100% de los colaboradores se otorguen el certificado Afosa - Mi trabajo Ideal** (9 o más en promedio de las 5 características más importantes para cada quién)
   
 ##4. 
 
@@ -36,46 +36,46 @@ Los **pasos** son
 
 - **a)** Elegir un **contexto apropiado**
 
-- **b)** **Re-unirse** todos los colaboradores 3 horas cada mes
+- **b)** **Re-unirse** todos los colaboradores 1 hora cada mes
 
 - **c)** **Comunicar el programa** de la re-unión
 
 - **d)** Invertir 30 minutos en **reflexionar sobre la creencia a integrar**: Eres 100% responsable de crear las mejores condiciones para tu vida
   
-- **e)** Invertir 30 minutos en **completar los 10 campos** cada quién en base a las condiciones. Se llena por duplicado para que una copia se la quede el colaborador y otra sirva a Stoa para generar un reporte cuantitativo y cualitativo de cada re-unión
+- **e)** Invertir 30 minutos en **completar los campos de la encuesta** cada quién en base a las condiciones. Se llena por duplicado para que una copia se la quede el colaborador y otra sirva a Stoa para generar un reporte cuantitativo y cualitativo de cada re-unión
 
-   - **0. Mi nombre es** = Nombre completo
+   - **1. Mi nombre es** = Nombre completo
   
-  - **9. Me siento parte de Afosa porque** = Algo concreto
+  - **2. ¿Cuál es la razón de ser de Afosa? ¿Para qué existe? ** = Algo concreto
   
-  - **8. Yo visualizo mi trabajo ideal con las siguientes características** = Lista numerada de características del 1 al 5 (1 es la más importante y 5 la menos)
+  - **3. Yo visualizo mi trabajo ideal con las siguientes características** = Lista numerada de características del 1 al 5 (1 es la más importante y 5 la menos)
 
-  - **7. Yo le agradezco a Afosa que** = 1 sola idea
+  - **4. Yo le agradezco a Afosa que** = 1 sola idea
   
-  - **6. La misión y los valores de Afosa son** = 1 parráfo + 4 palabras con descripción cada una
+  - **5. ¿Cuáles son los 2 valores de Afosa con los que más te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
   
-  - **5. Promedio de evaluación** = (0 a 10) de trabajo ideal en base a las 5 características más importantes /  5 números de 0 a 10, 1 por cada característica, sumarlos y dividir entre 5
-  
-  - **4. En base a esto voy a trabajar en equipo con** = 1 o más nombres
-  
-  - **3. Para que juntos podamos mejorar la situación actual a través del proyecto de** = Verbo +  algo concreto
-  
-  - **2. Me comprometo a** (en 90 minutos) = Algo tangible
-  
-  - **1. Próxima re-unión** = Fecha - Hora inicio - Hora fin - Lugar
+    - **6. ¿Cuáles son los 2 valores de Afosa con los que más te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
 
-- **f)** Invertir 30 minutos en **leer en voz alta los campos de cada quién** en 20 equipos al azar de 4 personas. Negociar en equipo y hacer los cambios necesarios para trabajar en un proyecto conjunto. Cada 2 equipos se recomienda tener un facilitador de Stoa para ayudar al equipo a plasmar algo en base a una metodología de proyectos (costo adicional)
-
-- **g)** Invertir 90 minutos en **cumplir los compromisos** cada equipo
+    - **7. ¿Cuáles son los 2 valores de Afosa con los que menos te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
+  
+  - **8. Promedio de evaluación** = (0 a 10) de trabajo ideal en base a las 5 características más importantes /  5 números de 0 a 10, 1 por cada característica, sumarlos y dividir entre 5
+  
+  - **9. ¿Qué te gustaría recibir o tener para convertir a Afosa en tu trabajo ideal?** = Algo concreto por cada una de las 5 características
+  - 
+  - **10. ¿A qué te comprometes para convertir a Afosa en tu trabajo ideal?  ** = Algo concreto por cada una de las 5 características
+  
+  - **Te avisamos que la próxima re-unión será** = Fecha - Hora inicio - Hora fin - Lugar
 
 - **h)** Comunicar fecha de la siguiente re-unión
 
 - **i)** En base a la información recabada, las personas que tengan promedio de 9 o más, serán citadas a una entrevista personal con Stoa para profundizar y  validar sus respuestas. Después de esa entrevista, se le entregará por parte de RH su certificado para sí mismo. Por cada entrevista Stoa entregará un reporte cualitativo para aprovechar esa información en toda la empresa
 
+- **j)** En base a la información recabada, Stoa entregará un reporte cuantitativo y cualitativo de la situación actual así como una lista de sugerencias a implementar.
+
 ##2. 
 
-El compromiso es **Autorizar sistema por parte de Liliana y Francisco**
+El compromiso es **Revisar de nuevo el sistema y autorizar el diseño final de la encuesta**
 
 ##1.
 
-La próxima reunión es **Miércoles 01 de abril 2015 - 9:30am - 11:00am - Oficinas de Afosa**
+La próxima reunión es **Jueves 23 de abril 2015 - 10:00am - 11:00am - Oficinas de Afosa**
