@@ -46,7 +46,7 @@ Los **pasos** son
 
    - **1. Mi nombre es** = Nombre completo
   
-  - **2. ¿Cuál es la razón de ser de Afosa? ¿Para qué existe? ** = Algo concreto
+  - **2. ¿Cuál es la razón de ser de Afosa? ¿Para qué existe?** = Algo concreto
   
   - **3. Yo visualizo mi trabajo ideal con las siguientes características** = Lista numerada de características del 1 al 5 (1 es la más importante y 5 la menos)
 
