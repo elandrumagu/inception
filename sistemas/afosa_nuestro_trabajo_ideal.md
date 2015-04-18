@@ -54,14 +54,14 @@ Los **pasos** son
   
   - **5. ¿Cuáles son los 2 valores de Afosa con los que más te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
   
-    - **6. ¿Cuáles son los 2 valores de Afosa con los que más te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
+  - **6. ¿Cuáles son los 2 valores de Afosa con los que más te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
 
-    - **7. ¿Cuáles son los 2 valores de Afosa con los que menos te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
+  - **7. ¿Cuáles son los 2 valores de Afosa con los que menos te identificas? ¿Por qué?** = 2 valores y una descirpción del porqué de cada valor
   
   - **8. Promedio de evaluación** = (0 a 10) de trabajo ideal en base a las 5 características más importantes /  5 números de 0 a 10, 1 por cada característica, sumarlos y dividir entre 5
   
   - **9. ¿Qué te gustaría recibir o tener para convertir a Afosa en tu trabajo ideal?** = Algo concreto por cada una de las 5 características
-  - 
+
   - **10. ¿A qué te comprometes para convertir a Afosa en tu trabajo ideal? ** = Algo concreto por cada una de las 5 características
   
   - **Te avisamos que la próxima re-unión será** = Fecha - Hora inicio - Hora fin - Lugar
