@@ -62,7 +62,7 @@ Los **pasos** son
   
   - **9. ¿Qué te gustaría recibir o tener para convertir a Afosa en tu trabajo ideal?** = Algo concreto por cada una de las 5 características
   - 
-  - **10. ¿A qué te comprometes para convertir a Afosa en tu trabajo ideal?  ** = Algo concreto por cada una de las 5 características
+  - **10. ¿A qué te comprometes para convertir a Afosa en tu trabajo ideal? ** = Algo concreto por cada una de las 5 características
   
   - **Te avisamos que la próxima re-unión será** = Fecha - Hora inicio - Hora fin - Lugar
 
